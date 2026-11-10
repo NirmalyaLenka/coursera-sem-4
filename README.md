@@ -4,6 +4,13 @@ this is just a example file
 
 ---
 
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `README.md`
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
