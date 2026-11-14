@@ -22,7 +22,7 @@ For an `ai-emotion-detector` project, add the source code, a dependency manifest
 
 ## Maintenance & audit
 
-- **Last updated:** 11 November 2026
+- **Last updated:** 14 November 2026
 - **Review scope:** Compared this README with the current repository root.
 - **Result:** The tracked root currently exposes only `README.md`; no application code or setup manifest was found in the root listing.
 - **Verification:** No build or runtime test is possible from the currently visible tracked contents. No implementation or course completion is claimed.
